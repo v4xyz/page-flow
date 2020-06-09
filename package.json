@@ -1,0 +1,25 @@
+{
+  "name": "page-flow",
+  "version": "0.0.1",
+  "description": "extract and control common logic for web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v4xyz/page-flow.git"
+  },
+  "keywords": [
+    "page",
+    "flow",
+    "control",
+    "页面逻辑控制"
+  ],
+  "author": "v4xyz@126.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/v4xyz/page-flow/issues"
+  },
+  "homepage": "https://github.com/v4xyz/page-flow#readme"  
+}
